@@ -1,0 +1,7 @@
+{
+  "name": "thermalprinter",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
